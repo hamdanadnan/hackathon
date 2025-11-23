@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Teachable Machine",
+  "description": "A web-based image classifier allowing users to create classes, capture data, and train models using Gemini 2.5 Flash.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
